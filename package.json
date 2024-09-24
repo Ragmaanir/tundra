@@ -1,0 +1,18 @@
+{
+  "name": "tundra",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Shared biome config",
+  "author": "Ragmaanir",
+  "license": "MIT",
+  "main": "index.ts",
+  "exports": {
+    "./biome": "./biome.jsonc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3"
+  }
+}
