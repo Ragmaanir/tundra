@@ -5,7 +5,7 @@
     ]
   },
   "organizeImports": {
-    "enabled": false
+    "enabled": true
   },
   "formatter": {
     "enabled": false,
@@ -34,7 +34,8 @@
       "suspicious": {
         "noExplicitAny": "warn",
         "noDoubleEquals": "warn",
-        "noAssignInExpressions": "info"
+        "noAssignInExpressions": "info",
+        "noEmptyInterface": "info"
       }
     }
   }
