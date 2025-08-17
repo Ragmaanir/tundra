@@ -20,7 +20,8 @@
         "noInferrableTypes": "off",
         "noNonNullAssertion": "off",
         "noUselessElse": "off",
-        "noUnusedTemplateLiteral": "info"
+        "noUnusedTemplateLiteral": "info",
+        "useConst": "warn"
       },
       "complexity": {
         "noStaticOnlyClass": "off",
