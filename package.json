@@ -5,6 +5,7 @@
   "description": "Shared biome config",
   "author": "Ragmaanir",
   "license": "MIT",
+  "packageManager": "pnpm@10.26.1",
   "main": "index.ts",
   "exports": {
     "./biome": "./biome.jsonc"
